@@ -59,6 +59,7 @@ setopt SHARE_HISTORY
 ```bash
 source ~/.zshrc
 ```
+### 7. Reboot your machine
 ## ✅ Verification
 Test your setup:
 
